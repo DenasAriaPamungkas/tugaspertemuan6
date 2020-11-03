@@ -2,5 +2,5 @@
 
 # Dan Menjelaskan Project 
 
-![logo](foto/logo.JPG) 
+![logo](foto/logo.jpg) 
 
