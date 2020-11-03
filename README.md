@@ -18,3 +18,7 @@ DAFTAR ISI
 
 ## Pertemuan 5 - Tugas
 
+Pada pertemuan 5 Bahasa Pemograman saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata Python (seperti gambar dibawah ini) <br>
+
+![Tugas](foto/logo.png)
+
