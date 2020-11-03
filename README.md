@@ -51,3 +51,7 @@ print("=================================") <br>
 `print("Please enter your address : Kp.Baru Rengas Bandung")`
 `address=input()`
 
+`dob=input("2020-year")` <br>
+
+`print("\n\n Assalamu'alaikum. ")` <br>
+print(f"Let me introduce my self, my name is {}, but you can call me {Denas Aria Pamungkas}, my NPM {3120110089}, I was born in{Bekasi} and iam {2020} years old, I am very glad if you want to invite my house in {Kp.Baru Rengas Bandung}, So don't forget to call me before with the number {085151106660}, \n\n Thanks you ")
