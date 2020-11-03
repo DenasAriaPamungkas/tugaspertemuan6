@@ -4,7 +4,8 @@
 
 ![logo](foto/logo.jpg) 
 
-**Nama :Denas Aria Pamungkas**
-**Nim :31210089**
-**Kelas:TI.A1.20**
-**Tugas:Bahasa Pemrogramman**
+**Nama :Denas Aria Pamungkas** <br>
+**Nim :31210089** <br>
+**Kelas:TI.A1.20** <br>
+**Tugas:Bahasa Pemrogramman** <br>
+
