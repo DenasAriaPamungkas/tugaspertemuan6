@@ -25,3 +25,10 @@ Pada pertemuan 5 Bahasa Pemograman saya diberi tugas oleh Dosen untuk membuat Ap
 Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
 Berikut *source code* nya atau Klik Link berikut ([Pertemuan_5 python](pertemuan_5.py)): <br>
 ```python <br>
+
+print("=================================") <br> 
+print("= NAMA    : Denas Aria Pamungkas ") <br>
+print("= NIM     : 312010089            ") <br>
+print("= KELAS   : TI.20 A.1            ") <br>
+print("=================================") <br>
+
