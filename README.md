@@ -32,3 +32,22 @@ print("= NIM     : 312010089            ") <br>
 print("= KELAS   : TI.20 A.1            ") <br>
 print("=================================") <br>
 
+`print("Please enter your full name : Denas Aria Pamungkas")` <br>
+`fullname=input()` <br>
+`print("Please enter nickname : Denas")` <br>
+`nickname=input()` <br>
+`print("Please enter your NPM : 312010089")` <br>
+`npm=input()` <br>
+`print("Please enter place of birth : Bekasi")` <br>
+`pob=input()` <br>
+`print("Please enter date of birth : 11 ")` <br> 
+`date=input()` <br>
+`print("Please enter your month of birth : October")` <br>
+`month=input()` <br>
+`print("Please enter year of birth : 2002") <br>
+`year=int(input())` <br>
+`print("Please enter your phone number : 085351106660")`
+`phone=input()`
+`print("Please enter your address : Kp.Baru Rengas Bandung")`
+`address=input()`
+
