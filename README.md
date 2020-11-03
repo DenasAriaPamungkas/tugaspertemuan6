@@ -55,3 +55,18 @@ print("=================================") <br>
 
 `print("\n\n Assalamu'alaikum. ")` <br>
 print(f"Let me introduce my self, my name is {}, but you can call me {Denas Aria Pamungkas}, my NPM {3120110089}, I was born in{Bekasi} and iam {2020} years old, I am very glad if you want to invite my house in {Kp.Baru Rengas Bandung}, So don't forget to call me before with the number {085151106660}, \n\n Thanks you ")
+
+Berikut Penjelasannya :
+
+print("please enter your full name : ") <br>
+``` <br>
+Source code diatas berfungsi untuk mencetak hasil / output berupa **Please enter your full name :** ". <br>
+ Untuk menampilkan output string, saya menggunakan *tanda petik dua* didalam fungsi print(), sedangkan jika saya ingin 
+menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggunakan *tanda petik dua*. Contohnya : <br>
+```python
+print("Nama saya adalah...")
+print(1234567)
+
+(Seperti gambar dibawah ini)
+![Output](foto/nama.png)
+
