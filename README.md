@@ -9,3 +9,12 @@
 **Kelas:TI.A1.20** <br>
 **Tugas:Bahasa Pemrogramman** <br>
 
+DAFTAR ISI
+| NO | Description | Link |
+| ----- | ----- | ----- |
+| 1 | Tugas Pertemuan 5 | [click here](#pertemuan-5---tugas)
+| 2 | Tugas Pertemuan 6 - Lab 1 | [click here](#pertemuan-6---lab-1)
+| 3 | Tugas Pertemuan 6 - Lab 1-2 | [click here](pertemuan-6---lab-1-2)
+
+## Pertemuan 5 - Tugas
+
