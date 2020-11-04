@@ -70,7 +70,7 @@ print("Nama saya adalah...")
 print(1234567)
 
 (Seperti gambar dibawah ini)<br> 
-![Output](Gambar1/nama.PNG )
+![Output](foto/printnama.PNG )
  * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax
 
  python
@@ -312,5 +312,3 @@ print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 ### ============= THANK YOU ============= <br> 
 ### Denas Aria Pamungkas / 312010089 / TI.20 A.1 <br>
 ### ===================================== <br>
-
-![foto](Gambar1/Al-Aqsa.jpg)
