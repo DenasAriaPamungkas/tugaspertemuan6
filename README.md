@@ -70,7 +70,7 @@ print("Nama saya adalah...")
 print(1234567)
 
 (Seperti gambar dibawah ini)<br> 
-![Output](foto/printnama.PNG )
+![Output](foto/printnama.png)
  * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax
 
  python
