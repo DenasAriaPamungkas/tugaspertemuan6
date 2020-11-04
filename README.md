@@ -239,7 +239,7 @@ w, x, y, z = 19, 15, 20, 15
 
 * Hasil dari syntex / source code diatas seperti gambar berikut ini : <br>
 
-![outputsyntax](poto/outputsyntax.png)
+![outputsyntax](foto/outputs1.png)
 
 
 
