@@ -28,35 +28,35 @@ Berikut *source code* nya atau klik link berikut([pertemuan-5 python](pertemuan_
 
  python
 
-print("=========================================") <br>
-print("= NAMA    : DENAS ARIA PAMUNGKAS         ") <br>
-print("= NIM     : 312010089                    ") <br>
-print("= KELAS   : TI.20 A.1                    ") <br>
-print("=========================================") <br>
+print("=========================================")<br>
+print("= NAMA    : DENAS ARIA PAMUNGKAS         ")<br>
+print("= NIM     : 312010089                    ")<br>
+print("= KELAS   : TI.20 A.1                    ")<br>
+print("=========================================")<br>
 
 
-print("Please enter your full name : DENAS ARIA PAMUNGKAS")
-fullname=input()
-print("Please enter nickname : DENAS")
-nickname=input()
-print("Please enter your NiM : 312010089")
-npm=input()
-print("Please enter place of birth : BEKASI")
-pob=input()
-print("Please enter date of birth : 11")
-date=input()
-print("Please enter your month of birth : OCTOBER")
-month=input()
-print("Please enter year of birth : 2002")
-year=input()
-print("Please enter your phone number : 085351106660")
-phone=input()
-print("Please enter your address : Kp.Baru Rengas Bandung")
-address=input()
+`print("Please enter your full name : DENAS ARIA PAMUNGKAS")`
+`fullname=input()`
+`print("Please enter nickname : DENAS")`
+`nickname=input()`
+`print("Please enter your NiM : 312010089")`
+`npm=input()`
+`print("Please enter place of birth : BEKASI")`
+`pob=input()`
+`print("Please enter date of birth : 11")`
+`date=input()`
+`print("Please enter your month of birth : OCTOBER")`
+`month=input()`
+`print("Please enter year of birth : 2002")`
+`year=input()`
+`print("Please enter your phone number : 085351106660")`
+`phone=input()`
+`print("Please enter your address : Kp.Baru Rengas Bandung")`
+`address=input()`
 
-dob=input("2020-year")
+`dob=input("2020-year")`
 
-print("\n\n Assalamu'alaikum. ")
+`print("\n\n Assalamu'alaikum. ")`
 print("f\n Let me introduce my self, my name is {DENAS ARIA PAMUNGKAS}, but you can call me {DENAS}, my NPM {312010089}, I was born in {BEKASI} and iam {18} years old, I am very glad if you want to invite my house in {Kp.Baru Rengas Bandung}, So don't forget to call me before with the number {085351106660}, \n\n Thanks you very much ")
 
 
@@ -74,9 +74,22 @@ print("Nama saya adalah...") <br>
 print(1234567) <br>
 
 (Seperti gambar dibawah ini) <br>
-![nama](foto/print.png) 
+![nama](foto/print.png)
 
+* Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax dibawah ini :
 
+ python
+
+fullname=input()
+ <br>
+Keterangan : <br> 
+>Variable adalah sebuah wadah penyimpanan data pada program yang akan akan digunakan selama program itu berjalan. yang 
+berfungsi sebagai variable dalam source code diatas adalah *fullname* . <br>
+>Fungsi *input()* adalah untuk memasukan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai 
+saat kita menekan tombol enter (newline)<br> 
+ (newline)<br> 
+
+[input](Gambar1/printnama.PNG)<br>
 
 pada gambar di atas, hasil dari inputan tersebut berwarna hijau <br>
 
@@ -109,6 +122,7 @@ Keterangan : <br>
 Hasil dari source code diatas adalah seperti gambar dibawah ini : <br>
 
 ![perkenalan](foto/hasilprint.png)
+
 
 `print(f"Let me introduce my self, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and iam {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thanks you ")`
 
