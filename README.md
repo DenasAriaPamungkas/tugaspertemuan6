@@ -334,7 +334,7 @@ hasil dari source code contoh diatas akan seperti gambar berikut :<br>
 
 * Konversi Nilai Variable
 Untuk pembahasan terakhir kali ini akan menyelesaikan tugas Lab 2dari Dosen, yaitu Konversi Nilai Variable<br>
-![lab](poto/lab2.png)
+![lab](foto/lab2.png)
 
 String Format 2
 
