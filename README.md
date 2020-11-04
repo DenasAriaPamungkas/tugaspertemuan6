@@ -14,7 +14,7 @@ DAFTAR ISI
 | ----- | ----- | ----- |
 | 1 | Tugas Pertemuan 5 | [click here](#pertemuan-5---tugas)
 | 2 | Tugas Pertemuan 6 - Lab 1 | [click here](#pertemuan-6---lab-1)
-| 3 | Tugas Pertemuan 6 - Lab 1-2 | [click here](pertemuan-6---lab-1-2)
+| 3 | Tugas Pertemuan 6 - Lab 1-2 | [click here](#pertemuan-6---lab-1-2)
 
 ## Pertemuan 5 - Tugas
 
@@ -50,9 +50,9 @@ print("=================================") <br>
 `print("Please enter your address : Kp.Baru  Rengas Bandung")`
 `address=input()`
 
-`dob=input("2020-year")` <br>
+`dob=input("2020-year") <br>
 
-`print("\n\n Assalamu'alaikum. ")` <br>
+print("\n\n Assalamu'alaikum. ") <br>
 print(f"Let me introduce my self, my name is {Denas Aria Pamungkas}, but you can call me {Denas}, my NPM {312010089}, I was born in{Bekasi} and i am {2020} years old, I am very glad if you want to invite my house in {Kp.Baru Rengas Bandung}, So don't forget to call me before with the number {085351106660}, \n\n Thank you ")
 
 ```
@@ -70,7 +70,7 @@ print(1234567)
 
 (Seperti gambar dibawah ini)<br>
  
-![Output](foto/printnama.png)
+![nama](foto/printnama.png)
 
  * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax
 
