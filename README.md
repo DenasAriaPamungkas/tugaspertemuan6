@@ -68,5 +68,5 @@ print("Nama saya adalah...")
 print(1234567)
 
 (Seperti gambar dibawah ini)
-![Input](foto/nama.png) <br>
+![Output](foto/nama.png) <br>
 
