@@ -301,11 +301,6 @@ Contoh kain dalam penggunaan *.format()* sebagai berikut : <br>
 `print('{:<30}{:30}{:>30}'.format(10,20,15))`
 
 
-
-hasil dari source code contoh diatas akan seperti gambar berikut :<br>
-
-![sourcecode](poto/stringmobil.png)
-
 <br><br>
 
 * Konversi Nilai Variable
