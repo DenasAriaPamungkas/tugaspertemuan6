@@ -328,7 +328,7 @@ Contoh kain dalam penggunaan *.format()* sebagai berikut : <br>
 
 hasil dari source code contoh diatas akan seperti gambar berikut :<br>
 
-![sourcecode](poto/stringmobil.png)
+![sourcecode](foto/sprintcode.png)
 
 <br><br>
 
