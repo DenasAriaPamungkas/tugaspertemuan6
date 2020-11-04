@@ -314,7 +314,7 @@ Contoh lain dalam penggunaan *.format()* sebagai berikut : <br>
 
 Hasil dari souce code contoh diatas akan seperti gambari berikut :<br>
 
-![hasilstring](poto/stringnama.png)
+![hasilstring](foto/sourcode.png)
 
 > Secara Default,*.format()* menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional <, ^, atau > untuk mengatur perataan kir, tengah, atau kanan.<br>
 Contoh kain dalam penggunaan *.format()* sebagai berikut : <br>
