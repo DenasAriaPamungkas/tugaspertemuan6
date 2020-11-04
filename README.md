@@ -5,10 +5,10 @@
 ![logo](poto/logo.png)
 
 
-*Nama          : Oktovan Agung Shailendra* <br>
-*Nim           : 312010131* <br>
+*Nama          : DENAS ARIA PAMUNGKAS* <br>
+*Nim           : 312010089* <br>
 *Kelas         : TI.20.A.1* <br>
-*Mata Kuliah   : Bahasa Pemrograman*
+*Mata Kuliah   : BAHASA PEMOGRAMAN*
 
 DAFTAR ISI
 | No | Description | Link |
