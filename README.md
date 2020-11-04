@@ -296,7 +296,7 @@ Pada syntax / source code string format 1 akan menampilkan output berupa 2 outpu
 Yang pertama (sebalah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan untuk sebelah kanan akan menampilkan Oprasi Aritmatika Pangkat.<br>
 Dengan ketentuan sebagai berikut, Oprasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua].)<br>
 
-![Oprasi Aritmatika Pangkat](poto/string1.png)
+![Oprasi Aritmatika Pangkat](foto/hasilcode.png)
 
 2. *string Format 2* <br>
 
