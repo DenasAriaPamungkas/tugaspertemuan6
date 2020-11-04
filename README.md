@@ -56,7 +56,6 @@ print("=================================") <br>
 print(f"Let me introduce my self, my name is {Denas Aria Pamungkas}, but you can call me {Denas}, my NPM {312010089}, I was born in{Bekasi} and i am {2020} years old, I am very glad if you want to invite my house in {Kp.Baru Rengas Bandung}, So don't forget to call me before with the number {085351106660}, \n\n Thank you ")
 
 ```
-
 Berikut Penjelasannya :<br>
 
 ```python
@@ -65,12 +64,12 @@ print("please enter your full name : ") <br>
 Source code diatas berfungsi untuk mencetak hasil / output berupa **Please enter you
  Untuk menampilkan output string, saya menggunakan tanda petik dua didalam fungsi 
 menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggunaka
-python
+```python
 print("Nama saya adalah...")
 print(1234567)
 
 (Seperti gambar dibawah ini)<br> 
-![Output](foto/printnama.png)
+![hasil](foto/printnama.png)
  * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax
 
  python
