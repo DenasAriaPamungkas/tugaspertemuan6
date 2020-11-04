@@ -69,5 +69,5 @@ print(1234567)
 
 (Seperti gambar dibawah ini)
 
-![Output](foto/printnama.png)
+![Input] (foto/printnama.png) <br>
 
