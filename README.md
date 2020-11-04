@@ -255,7 +255,7 @@ String formatting atau string meemungkinkan kita menyuntikan item kedalam string
 
 * Penggunaan source code yang di berikan oleh Dosen seperti berikut : <br>
 
-![stringdosen](foto/string.PNG)
+![stringdosen](foto/string.png)
 
  python
 
