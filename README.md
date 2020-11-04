@@ -68,8 +68,10 @@ menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggu
 print("Nama saya adalah...")
 print(1234567)
 
-(Seperti gambar dibawah ini)<br> 
+(Seperti gambar dibawah ini)<br>
+ 
 ![hasil](foto/printnama.png)
+
  * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax
 
  python
