@@ -70,7 +70,7 @@ print(1234567)
 
 (Seperti gambar dibawah ini)<br>
  
-![hasil](foto/printnama.png)
+![Output](foto/printnama.png)
 
  * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax
 
