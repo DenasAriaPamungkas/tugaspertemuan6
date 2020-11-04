@@ -69,5 +69,4 @@ print(1234567)
 
 (Seperti gambar dibawah ini)
 
-![Output](foto/nama.png) <br>
-
+![Tugas](foto/nama.png) <br>
