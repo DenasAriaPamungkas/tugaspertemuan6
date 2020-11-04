@@ -121,7 +121,7 @@ Keterangan : <br>
 2. Fungsi print() seperti dijelaskan pada point **Output** diatas
 Hasil dari source code diatas adalah seperti gambar dibawah ini : <br>
 
-![perkenalan](foto/hasilprint.png)
+![perkenalan](foto/print.png)
 
 
 `print(f"Let me introduce my self, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and iam {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thanks you ")`
