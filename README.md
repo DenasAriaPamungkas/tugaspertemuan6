@@ -69,5 +69,24 @@ print(1234567)
 
 (Seperti gambar dibawah ini)
 
-![Input] (foto/printnama.png) <br>
+![Output](foto/printnama.png) <br>
 
+Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax dibawah ini :
+fullname=input()
+``` <br>
+Keterangan : <br> 
+>Variable adalah sebuah wadah penyimpanan data pada program yang akan akan digunakan selama program itu berjalan. yang 
+berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
+>Fungsi **input()** adalah untuk memasukan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai 
+saat kita menekan tombol enter *(newline)*<br> 
+*(newline)*<br>
+
+[input](Gambar1/printnama.PNG)<br>
+pada gambar di atas, hasil dari inputan tersebut berwarna *hijau*<br><br>
+* Untuk memasukan perintah lain seperti *Nikname, NPM, Place Of Birth, Date Of Birth, Year Of Birth, Phone Number, and 
+Addres* mengikuti perintah sama seperti memasukan *fullname*<br>
+
+* Untuk menghitung rumus saya menggunakan variable *DOB* yaitu 2020 (Tahun sekarang) dikurangin dengan Year of Birt, pada 
+source code berikut :<br>
+``` python
+dob=2020-year
