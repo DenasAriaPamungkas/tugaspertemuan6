@@ -132,7 +132,7 @@ Keterangan :
 2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 Hasil dari output tersebut seperti berikut :<br>
 
-![code](poto/codepertemuan5.png)
+![code](foto/hasilprint.png)
 
 <br>
 ---
