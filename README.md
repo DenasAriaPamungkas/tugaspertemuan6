@@ -183,13 +183,6 @@ Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris,
 `print('Z')`
 
 
-Hasil dari source code tersebut seperti gambar dibawah ini :<br>
-
-
-![outputend](poto/outputend.png)
-
-
-
 * Peggunaan SEPARATOR
 
 `> pendeklarasian beberapa variabel beserta nilainya`
@@ -236,14 +229,6 @@ w, x, y, z = 19, 15, 20, 15
 `print(w, x, y, z, sep='-----')`
 
 
-
-* Hasil dari syntex / source code diatas seperti gambar berikut ini : <br>
-
-![outputsyntax](poto/outputsyntax.png)
-
-
-
-
 <br>
 <hr>
 <br>
@@ -254,8 +239,6 @@ w, x, y, z = 19, 15, 20, 15
 String formatting atau string meemungkinkan kita menyuntikan item kedalam string dari pada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
 
 * Penggunaan source code yang di berikan oleh Dosen seperti berikut : <br>
-
-![stringdosen](poto/stringdosen.png)
 
  python
 
@@ -296,8 +279,6 @@ Pada syntax / source code string format 1 akan menampilkan output berupa 2 outpu
 Yang pertama (sebalah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan untuk sebelah kanan akan menampilkan Oprasi Aritmatika Pangkat.<br>
 Dengan ketentuan sebagai berikut, Oprasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua].)<br>
 
-![Oprasi Aritmatika Pangkat](poto/string1.png)
-
 2. *string Format 2* <br>
 
 Pada syntax atau code string dormat duaakan menampilkan output berupa dua outputan juga (seperti String Format 1, yaitu kiri dan kanan)<br>
@@ -310,11 +291,6 @@ Contoh lain dalam penggunaan *.format()* sebagai berikut : <br>
 `print('{0:8} | {1:9}'.format('Leon',3.))`
 `print('{0:8} | {1:9}'.format('Ashly',10))`
 
-
-
-Hasil dari souce code contoh diatas akan seperti gambari berikut :<br>
-
-![hasilstring](poto/stringnama.png)
 
 > Secara Default,*.format()* menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional <, ^, atau > untuk mengatur perataan kir, tengah, atau kanan.<br>
 Contoh kain dalam penggunaan *.format()* sebagai berikut : <br>
@@ -334,7 +310,6 @@ hasil dari source code contoh diatas akan seperti gambar berikut :<br>
 
 * Konversi Nilai Variable
 Untuk pembahasan terakhir kali ini akan menyelesaikan tugas Lab 2dari Dosen, yaitu Konversi Nilai Variable<br>
-![lab](poto/lab2.png)
 
 String Format 2
 
@@ -377,12 +352,6 @@ String Format 2
 `print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))`
 `print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))`
 
-![codelab2](poto/codelab2.png)
-
-Dan hasilnya akan seperti gambar di bawah ini :<br>
-
-![outputlab](poto/outputlab2.png)
-
 <br><hr><br>
 
-#*TERIMA KASIH*
+#*THANK YOU*
