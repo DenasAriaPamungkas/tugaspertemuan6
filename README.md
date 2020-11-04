@@ -20,17 +20,19 @@ DAFTAR ISI
 ## Pertemuan 5 - Tugas
 
 Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata Python (seperti Gambar dibawah ini) <br>
+
 ![pertemuan](foto/denas.png) <br>
+
 saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
-Berikut source code nya : <br>
+Berikut *source code* nya atau klik link berikut([pertemuan-5 python](pertemuan_5.py)): <br>
 
  python
 
-print("=========================================")
-print("= NAMA    : DENAS ARIA PAMUNGKAS         ")
-print("= NIM     : 312010089                    ")
-print("= KELAS   : TI.20 A.1                    ")
-print("=========================================")
+print("=========================================") <br>
+print("= NAMA    : DENAS ARIA PAMUNGKAS         ") <br>
+print("= NIM     : 312010089                    ") <br>
+print("= KELAS   : TI.20 A.1                    ") <br>
+print("=========================================") <br>
 
 
 print("Please enter your full name : DENAS ARIA PAMUNGKAS")
@@ -72,7 +74,7 @@ print("Nama saya adalah...") <br>
 print(1234567) <br>
 
 (Seperti gambar dibawah ini) <br>
-![nama](foto/print.png)
+![nama](foto/print.png) 
 
 
 
