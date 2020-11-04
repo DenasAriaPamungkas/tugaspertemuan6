@@ -1,8 +1,8 @@
 # penggunaan end
 
-print('F', end= '')
-print('G', end= '')
-print('H', end= '')
+print('K', end= '')
+print('L', end= '')
+print('M', end= '')
 print()
 print('X')
 print('Y')
